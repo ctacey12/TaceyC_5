@@ -1,1 +1,0 @@
-memberSearchIndex = [{"p":"<Unnamed>","c":"LinkedListSorter","l":"bubbleSort(LinkedList<Integer>)","u":"bubbleSort(java.util.LinkedList)"},{"p":"<Unnamed>","c":"LinkedListSorter","l":"LinkedListSorter()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"LinkedListSorter","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
